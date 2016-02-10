@@ -119,6 +119,9 @@ require_once(getenv('OPENSHIFT_REPO_DIR') . '.openshift/openshift.inc');
 |--------------------------------------------------------------------------
 */
 
+/* Multisite */
+define( 'WP_ALLOW_MULTISITE', true );
+
 // absolute path to the WordPress directory
 if ( !defined('ABSPATH') )
   define('ABSPATH', dirname(__FILE__) . '/');
