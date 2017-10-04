@@ -1,0 +1,347 @@
+# Translation of Graphy in Russian
+# This file is distributed under the same license as the Graphy package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-07-20 01:42:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Graphy\n"
+
+#. Theme Name of the plugin/theme
+msgid "Graphy"
+msgstr "Graphy"
+
+#. Description of the plugin/theme
+msgid "Graphy is a WordPress theme for blogs that are designed to have beautiful typography. It is developed using mobile-first responsive design, ensuring that your blog will be no less beautiful when viewed on a smartphone or tablet. Graphy has five widgets available (one sidebar, four footers), and using the sidebar widget also enables you to make a two-column design. In addition, footer widget display is automatically adjusted depending on how many are used. Graphy also supports Customizer, Custom Menu, and Custom Header, enabling flexible configuration."
+msgstr "Graphy ist ein WordPress-Theme für Blogs, das besonderen Wert auf eine ästhetische Typographie legt. Das responsive Design sorgt dafür, dass dein Blog auch auf Smartphones oder Tablets optimal dargestellt wird. Graphy beinhaltet fünf Widgets (eine für die Sidebar, vier für die Fußzeilen), von denen das Sidebar-Widget auch genutzt werden kann, um ein zweispaltiges Layout darzustellen. Die Darstellung der Fußzeilen-Widgets passt sich automatisch der Anzahl der benutzten Widgets an. Graphy unterstützt außerdem die \"Anpassen\"-Einstellung sowie benutzerdefinierte Menüs und Headers, mit denen das Theme individuell angepasst werden kann."
+
+#. Template Name of the plugin/theme
+msgid "No Sidebar"
+msgstr "Без боковых колонок"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: inc/template-tags.php:130
+msgid "Tagged %1$s"
+msgstr "Tagged %1$s"
+
+#: inc/template-tags.php:125
+msgid "Posted in %1$s"
+msgstr "Опубликовано в рубрике %1$s"
+
+#: inc/template-tags.php:117 inc/template-tags.php:125
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:98
+msgid "% Comments"
+msgstr "Комментарии (%)"
+
+#: inc/template-tags.php:98
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: inc/template-tags.php:98
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: inc/template-tags.php:80
+msgid "Posted on"
+msgstr "Опубликовано"
+
+#: inc/template-tags.php:88
+msgid "by"
+msgstr "Автор:"
+
+#: inc/template-tags.php:59
+msgctxt "Next post link"
+msgid "%title"
+msgstr "%title"
+
+#: inc/template-tags.php:59
+msgid "Next post"
+msgstr "Следующая запись"
+
+#: inc/template-tags.php:58
+msgctxt "Previous post link"
+msgid "%title"
+msgstr "%title"
+
+#: inc/template-tags.php:58
+msgid "Previous post"
+msgstr "Предыдущая запись"
+
+#: inc/template-tags.php:31
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Следующие записи <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Предыдущие записи"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Навигация по записям"
+
+#: inc/extras.php:47
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: inc/customizer.php:139
+msgid "Hide Author"
+msgstr "Скрыть автора"
+
+#: inc/customizer.php:149
+msgid "Hide Categories"
+msgstr "Скрыть рубрику"
+
+#: inc/customizer.php:131 inc/customizer.php:178
+msgid "Full text"
+msgstr "Полный текст"
+
+#: inc/customizer.php:130 inc/customizer.php:177
+msgid "Summary"
+msgstr "Анонс"
+
+#: inc/customizer.php:117
+msgid "Article"
+msgstr "статья"
+
+#: inc/customizer.php:125
+msgid "Display"
+msgstr "Показывать"
+
+#: inc/customizer.php:100
+msgid "Link Hover Color"
+msgstr "Цвет ссылки при наведении"
+
+#: inc/customizer.php:110
+msgid "Hide Serach"
+msgstr "Скрыть поиск"
+
+#: inc/customizer.php:90
+msgid "Link Color"
+msgstr "Цвет ссылок"
+
+#: inc/customizer.php:68
+msgid "Replace Title"
+msgstr "Заменить заголовок"
+
+#: inc/customizer.php:78
+msgid "Add Border Radius"
+msgstr "Увеличить радиус границы"
+
+#: inc/customizer.php:39
+msgid "Upload Logo"
+msgstr "Добавить логотип"
+
+#: inc/customizer.php:31
+msgid "Logo"
+msgstr "Логотип"
+
+#: inc/customizer.php:24
+msgid "Hide Tagline"
+msgstr "Скрыть подзаголовок"
+
+#: header.php:46
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: header.php:45
+msgid "Menu"
+msgstr "Меню"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Bitter, translate this to 'off'. Do not translate into your own language.
+#: functions.php:143
+msgctxt "Bitter font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Lora, translate this to 'off'. Do not translate into your own language.
+#: functions.php:137
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:98
+msgid "Footer 2"
+msgstr "Нижний виджет 2"
+
+#: functions.php:106
+msgid "Footer 3"
+msgstr "Нижний виджет 3"
+
+#: functions.php:114
+msgid "Footer 4"
+msgstr "Нижний виджет 4"
+
+#: functions.php:90
+msgid "Footer 1"
+msgstr "Нижний виджет 1"
+
+#: functions.php:82
+msgid "Sidebar"
+msgstr "Боковая колонка"
+
+#: functions.php:53
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#. #-#-#-#-#  graphy.pot (Graphy 1.1.5)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:18
+msgid "http://themegraphy.com/"
+msgstr "http://themegraphy.com/"
+
+#: footer.php:17
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:17
+msgid "Powered by "
+msgstr "создано с помощью"
+
+#: content.php:20 content.php:26
+msgid "<span class=\"continue-reading\">Continue reading &rarr;</span>"
+msgstr "<span class=\"continue-reading\">Читать дальше &rarr;</span>"
+
+#: content-page.php:16 content-single.php:18 content.php:21
+msgid "Pages:"
+msgstr "Страниц:"
+
+#: content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: content-none.php:23
+msgid "Nothing matched your search terms. Please try again with some different keywords."
+msgstr "Ничего не найдено в соответствие с вашим критериям поиска. Пожалуйста, попробуйте еще раз с другими ключевыми словами."
+
+#: content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните отсюда</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: comments.php:36 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "Следующие комментарии &rarr;"
+
+#: comments.php:35 comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: comments.php:34 comments.php:52
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:27
+msgctxt "comments title"
+msgid "One response"
+msgid_plural "%1$s responses"
+msgstr[0] "%1$s Ответ"
+msgstr[1] "%1$s Ответы"
+msgstr[2] ""
+
+#: archive.php:75
+msgid "Archives"
+msgstr "Архивы"
+
+#: archive.php:72
+msgid "Chats"
+msgstr "Чаты"
+
+#: archive.php:69
+msgid "Audios"
+msgstr "Аудио"
+
+#: archive.php:66
+msgid "Statuses"
+msgstr "Статусы"
+
+#: archive.php:63
+msgid "Links"
+msgstr "Ссылки"
+
+#: archive.php:60
+msgid "Quotes"
+msgstr "Цитаты"
+
+#: archive.php:57
+msgid "Videos"
+msgstr "Видео"
+
+#: archive.php:54
+msgid "Images"
+msgstr "Изображения"
+
+#: archive.php:51
+msgid "Galleries"
+msgstr "Галереи"
+
+#: archive.php:48
+msgid "Asides"
+msgstr "Заметки"
+
+#: archive.php:45
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:45
+msgid "Year: %s"
+msgstr "Год: %s"
+
+#: archive.php:42
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:42
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+#: archive.php:39
+msgid "Day: %s"
+msgstr "День: %s"
+
+#: archive.php:31
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: archive.php:24
+msgid "Tag: "
+msgstr "Метка: "
+
+#: archive.php:21
+msgid "Category: "
+msgstr "Раздел:"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться поиском."
+
+#: 404.php:15
+msgid "That page can&rsquo;t be found."
+msgstr "Страница не найдена"
+
+#. Theme URI of the plugin/theme
+msgid "http://themegraphy.com/graphy-wordpress-theme/"
+msgstr "http://themegraphy.com/graphy-wordpress-theme/"
+
+#. Author of the plugin/theme
+msgid "Takao Utsumi"
+msgstr "Takao Utsumi"

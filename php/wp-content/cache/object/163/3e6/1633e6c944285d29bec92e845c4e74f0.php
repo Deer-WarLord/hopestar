@@ -1,0 +1,1 @@
+aZÔY<?php exit; ?>a:1:{s:7:"content";a:5:{s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:10:"_edit_lock";a:1:{i:0;s:12:"1448952176:1";}s:18:"book_review_rating";a:1:{i:0;s:2:"-1";}s:24:"book_review_archive_post";a:1:{i:0;s:1:"1";}s:13:"_thumbnail_id";a:1:{i:0;s:3:"222";}}}
